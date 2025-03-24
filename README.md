@@ -47,6 +47,8 @@ va dans le client et ajouter les roles :
 
 **assigner les roles to users**
 
+**creer scoop and mappers**
+
 ## Configuration Client Application is the spring-boot application 
  1- Ajouter les depandance : voir POM.xml 
  2- ajuster le ficheir application.properties avec les donees du client keycloak (the secreat key est dans clients > votre client > credentials)
