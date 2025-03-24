@@ -54,5 +54,3 @@ va dans le client et ajouter les roles :
 
 
 
-
-scopes (ou périmètres)  ; Ces scopes déterminent les informations ou les permissions que votre application peut accéder après une authentification réussie.
